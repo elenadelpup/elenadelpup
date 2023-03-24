@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elenadelpup
-- 👀 I’m interested in plant genomes and systems biology 
-- 🌱 I’m currently learning machine learning methods in plant genomes 
+- 👀 I’m interested in plant genomics, metabolomics and phylogenomics
+- 🌱 I’m currently learning machine learning tools
 - 💞️ I’m looking to collaborate on building any fancy piece of code 
 - 📫 How to reach me elena.delpup@wur.nl
 
