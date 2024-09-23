@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @elenadelpup<br>🌱 I’m interested in plant natural product discovery <br>📫 Reach out to me at my institutional email elena.delpup@wur.nl
+👋 Hi, I’m @elenadelpup<br>🌱 I’m interested in plant natural product discovery <br> 💞️ I’m looking to collaborate on building any fancy bioinformatics pipeline for biology <br>📫 Reach out to me at my institutional email elena.delpup@wur.nl
 
 
 ## 🌐 Socials:
